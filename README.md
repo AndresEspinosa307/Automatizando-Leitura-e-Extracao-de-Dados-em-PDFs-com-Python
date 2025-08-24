@@ -1,0 +1,2 @@
+# Automatizando-Leitura-e-Extracao-de-Dados-em-PDFs-com-Python
+Este projeto Python tem como objetivo automatizar a leitura e extração de dados específicos de múltiplos arquivos PDF (faturas/invoices) e, em seguida, organizar esses dados em uma planilha Excel. A solução é ideal para empresas que precisam processar um grande volume de documentos PDF e desejam otimizar o fluxo de trabalho de entrada de dados.
